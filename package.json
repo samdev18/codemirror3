@@ -35,14 +35,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scniro/react-codemirror2.git"
+    "url": "git+https://github.com/samdev18/codemirror3.git"
   },
   "author": "samdev18",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scniro/react-codemirror2/issues"
+    "url": "https://github.com/samdev18/codemirror3/issues"
   },
-  "homepage": "https://github.com/scniro/react-codemirror2#readme",
+  "homepage": "https://github.com/samdev18/codemirror3#readme",
   "keywords": [
     "react",
     "react-codemirror",
